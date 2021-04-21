@@ -1,0 +1,6 @@
+Notebook criado no Google Colab para demonstração de processamento de texto em uma planilha do Excel, separando as informações em palavras, utilizando as colunas do dataframe como critério.
+Ainda, é possível obter os dados separadamente pelas abas da planilha.
+Foi feito também um ranking com as palavras mais citadas, e uma wordcloud ao final.
+No exemplo foi utilizado um arquivo com 4 colunas, sendo a primeira datatime e as outras 3 com textos aleatórios (extraídos de uma página sobre entrevista de emprego... hehehe).
+Para quem tiver interesse em utilizar a própria planilha do exemplo, para testes, está disponível em:
+https://drive.google.com/file/d/1N0AKn1mc0ArpWYRtWIBmoy1Cr0D1c-L4/view?usp=sharing
